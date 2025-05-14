@@ -1,4 +1,6 @@
 """
+根据选定的图片文件夹,生成Android的逐帧动画xml.
+
 使用示例:
 python generate_animation.py -i /path/to/images -o /output/path/animation.xml -d 100 --oneshot
 
